@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img alt="Feedget Mockup" src="https://github.com/filipesalesaraujo/feedget/blob/main/feedget-mockup.png" width="100%">
+  <img alt="feedback Widget Mockup" src="https://github.com/filipesalesaraujo/feedback-widget/blob/main/feedget-mockup.png" width="100%">
 </p>
 
 ## 🔖 Layout
@@ -34,7 +34,7 @@ Remembering that you need to have a [Figma](http://figma.com/) account to access
 **Clone the project and access the folder**
 
 ```bash
-git clone https://github.com/filipesalesaraujo/feedget.git && cd feedget
+git clone https://github.com/filipesalesaraujo/feedback-widget.git && cd feedback-widget
 ```
 
 **Follow the steps below**
