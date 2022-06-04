@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img alt="Feedget Mockup" src="mockup.png" width="100%">
+  <img alt="Feedget Mockup" src="https://github.com/filipesalesaraujo/feedget/blob/main/feedget-mockup.png" width="100%">
 </p>
 
 ## 🔖 Layout
